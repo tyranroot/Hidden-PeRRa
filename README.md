@@ -8,14 +8,13 @@
                                                 
                                                 
 ```
+![Python](https://img.shields.io/badge/Python-3.8%2B-00ff41?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d)
 <div align="center">
 
  ⚡ H I D D E N X  v 1 . 0 ⚡ ║
  Professional Hidden Elements Finder ║
  Educational Purpose Only║
  
-
-
 </div>
 
 ---

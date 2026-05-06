@@ -13,7 +13,7 @@
 
 ## 📌 **Overview**
 
-**HiddenX Pro** is a professional-grade web reconnaissance tool that automatically discovers hidden elements on websites including:
+**Hidden PeRRa** is a professional-grade web reconnaissance tool that automatically discovers hidden elements on websites including:
 - 🔍 Hidden form fields
 - 📝 Hidden parameters in JavaScript/URLs
 - 📁 Hidden directories (admin, backup, config, etc.)

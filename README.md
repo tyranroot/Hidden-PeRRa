@@ -125,3 +125,13 @@ python3 Hidden-PeRRa.py
 [!] Use only on websites you OWN or have PERMISSION to test!
 
 [>] Target URL (https://example.com): https://example.com/
+```
+---
+## 👨‍💻 Author
+* **Name:** Maruf x ZeroTrace 
+* 🐙 GitHub: [@tyranroot](https://github.com/tyranroot/)
+* 💬 Telegram: [@marufxzerotrace](https://t.me/marufxzerotrace)
+* 📘 Facebook: [Maruf x ZeroTrace](https://www.facebook.com/share/1CDxaGN6p3/)
+
+---
+

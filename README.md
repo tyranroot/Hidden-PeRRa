@@ -15,7 +15,7 @@
  ⚡ H I D D E N X  v 1 . 0 ⚡ ║
  Professional Hidden Elements Finder ║
  Coded by: TyraxZero ║
- Educational Purpose Only ║
+ Educational Purpose Only║
  
 
 

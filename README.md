@@ -109,3 +109,21 @@ pip install requests beautifulsoup4 colorama
 python3 Hidden-PeRRa.py
 ```
 
+###  🎭   **Overview**
+```bash
+
+
+       ██╗  ██╗██╗██████╗ ██████╗ ███████╗███╗   ██╗██╗  ██╗
+       ██║  ██║██║██╔══██╗██╔══██╗██╔════╝████╗  ██║╚██╗██╔╝
+       ███████║██║██║  ██║██████╔╝█████╗  ██╔██╗ ██║ ╚███╔╝
+       ██╔══██║██║██║  ██║██╔══██╗██╔══╝  ██║╚██╗██║ ██╔██╗
+       ██║  ██║██║██████╔╝██║  ██║███████╗██║ ╚████║██╔╝ ██╗
+       ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝
+                    Professional Hidden Elements Finder
+                            Coded by: TyranRoot
+
+
+[!] Find hidden parameters, fields, directories, API endpoints
+[!] Use only on websites you OWN or have PERMISSION to test!
+
+[>] Target URL (https://example.com): https://example.com/

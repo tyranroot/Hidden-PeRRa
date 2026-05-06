@@ -10,7 +10,7 @@
 ```
 <div align="center">
 
- ⚡ H I D D E N X  v 1 . 0 ⚡ ║
+ ⚡ H I D R E N X  v 1 . 0 ⚡ ║
  Professional Hidden Elements Finder ║
  Educational Purpose Only║
  

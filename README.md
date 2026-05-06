@@ -55,7 +55,7 @@
 ```bash 
 Type	What It Finds	Risk Level
 🔐 Directories	admin, backup, config, phpmyadmin, cpanel	  🔴 High
-🌐 API Endpoints	/api/, /v1/, /rest/, /graphql          	🟡 Medium
+🌐 API Endpoints	/api/, /v1/, /rest/, /graphql          	  🟡 Medium
 📝 Form Fields	Hidden inputs, CSRF tokens, debug parameters  🟡 Medium
 💬 Comments	TODO, FIXME, passwords, API keys in HTML comments 🔴 High
 📄 Config Files	robots.txt, sitemap.xml, .env, .git	          🔴 High
